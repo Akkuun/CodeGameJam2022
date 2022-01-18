@@ -19,4 +19,8 @@ public class PlayGame : MonoBehaviour
     {
         Application.Quit();
     }
+    public void GoBackMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
 }

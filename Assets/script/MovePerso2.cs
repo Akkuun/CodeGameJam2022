@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MovePerso : MonoBehaviour
+public class MovePerso2 : MonoBehaviour
 {
 
     public float moveSpeed = 5f;
@@ -14,26 +14,27 @@ public class MovePerso : MonoBehaviour
     }
 
     public void Update()
-    {if(Input.GetKeyDown(KeyCode.D)){
+    {
+
+        if(Input.GetKeyDown(KeyCode.RightArrow)){
         dir.x = 1;
         }
-         if(Input.GetKeyUp(KeyCode.D)){
+         if(Input.GetKeyUp(KeyCode.RightArrow)){
             dir.x=0;
         }
-         if(Input.GetKeyDown(KeyCode.Q)){
+         if(Input.GetKeyDown(KeyCode.LeftArrow)){
              dir.x=-1;
-         }  if(Input.GetKeyUp(KeyCode.Q)){
+         }  if(Input.GetKeyUp(KeyCode.LeftArrow)){
             dir.x=0;
         }
-                if(Input.GetKeyDown(KeyCode.Z)){
+                if(Input.GetKeyDown(KeyCode.UpArrow)){
                     dir.y=1;
-                }  if(Input.GetKeyUp(KeyCode.Z)){
+                }  if(Input.GetKeyUp(KeyCode.UpArrow)){
             dir.y=0;
         }
-                if(Input.GetKeyDown(KeyCode.
-                S)){
+                if(Input.GetKeyDown(KeyCode.DownArrow)){
                      dir.y = -1;
-                }  if(Input.GetKeyUp(KeyCode.S)){
+                }  if(Input.GetKeyUp(KeyCode.DownArrow)){
             dir.y=0;
         }
         rb.MovePosition(rb.position + dir * moveSpeed * Time.fixedDeltaTime);

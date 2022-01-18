@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class movePerso : MonoBehaviour
+public class MovePerso : MonoBehaviour
 {
 
     public float moveSpeed = 5f;

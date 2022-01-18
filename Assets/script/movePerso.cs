@@ -3,20 +3,20 @@ using UnityEngine;
 public class movePerso : MonoBehaviour
 {
 
-    public float moveSpeed;
+    public float moveSpeed = 5f;
     public Rigidbody2D rb;
-    private Vector3 velocity = Vector3.zero;
-    
+    private Vector2 dir;
 
-    void FixedUpdate()
+
+    public void Start()
     {
-        float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime;
-
-        MovePlayer(horizontalMovement);
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    void MovePlayer(float _horizontalMovement){
-        Vector3 tragetVelocity = new Vector2(_horizontalMovement, rb.velocity.y);
-        rb.velocity = Vector3.SmoothDamp(rb.velocity, tragetVelocity, ref velocity, .05f);
+    public void Update()
+    {
+        dir.x = Input.GetAxisRaw("Horizontal");
+        dir.y = Input.GetAxisRaw("Vertical");
+        rb.MovePosition(rb.position + dir * moveSpeed * Time.fixedDeltaTime);
     }
 }

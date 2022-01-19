@@ -23,4 +23,9 @@ public class PlayGame : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+
+    public void goHistoire()
+    {
+        SceneManager.LoadScene(5);
+    }
 }

@@ -21,7 +21,7 @@ public class ManagementLight : MonoBehaviour
 
         if (s2 < s1)
         {
-            soleil.intensity += .1f;
+            soleil.intensity += .25f;
             s1 = s2;
         }
 

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DudeSwimLeft
+  m_Name: Dude2SwimLeft
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,9 +20,9 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 7d3f289354efc6e49b463a88cc7fc5e8, type: 3}
+      value: {fileID: 21300000, guid: dd893dcb67e248248bea8b957deb8e14, type: 3}
     - time: 0.5
-      value: {fileID: 21300000, guid: ca988e15360ce8d4ca26f634b8547d58, type: 3}
+      value: {fileID: 21300000, guid: d22ee8e6e9d823342ab8ef3fbd3c99eb, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -42,8 +42,8 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 7d3f289354efc6e49b463a88cc7fc5e8, type: 3}
-    - {fileID: 21300000, guid: ca988e15360ce8d4ca26f634b8547d58, type: 3}
+    - {fileID: 21300000, guid: dd893dcb67e248248bea8b957deb8e14, type: 3}
+    - {fileID: 21300000, guid: d22ee8e6e9d823342ab8ef3fbd3c99eb, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

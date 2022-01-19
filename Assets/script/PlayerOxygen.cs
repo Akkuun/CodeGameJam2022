@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 
 
@@ -33,8 +34,8 @@ public class PlayerOxygen : CheckCollider
         oxyBar.value = (float)currentOxygen/(float)OxygenAmount;
          }
          if(currentOxygen <= 0){
-             print("Tu est mort");
-         }
+            SceneManager.LoadScene(3);
+        }
      }
 
      public void setUnderWater(bool a) {

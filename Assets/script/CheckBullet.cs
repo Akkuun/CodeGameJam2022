@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CheckBullet : MonoBehaviour
 {
-public static int nbItem = 4;
+public static int nbItem = 7;
 private static int nb1 = 0;
 private static int nb2 = 0;
 

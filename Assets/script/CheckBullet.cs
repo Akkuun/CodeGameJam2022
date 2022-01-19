@@ -4,19 +4,42 @@ using UnityEngine;
 
 public class CheckBullet : MonoBehaviour
 {
+public static int nbItem = 4;
+private static int nb1 = 0;
+private static int nb2 = 0;
 
+private void Update() {
+    print(nbItem);
+    if(nbItem <= 1){
+        Debug.Log("AAAAAAA");
+            if(nb1>nb2){
+                    print("Player 1 WIN");
+            }
+            else if ( nb1<nb2){
+                print("Player 2 WIN");
+                }
+                else
+                {
+                    print("Egaliter");
+                }
+            
+        }
+}
 private void OnTriggerEnter2D(Collider2D other) {
-    // if(Input.GetKeyDown(KeyCode.E)){
         if(other.CompareTag("Player")){
         Destroy(this);
         GetComponent<Renderer>().enabled = false;
         other.gameObject.GetComponent<Score>().score++;
+        nbItem--; nb1++;
         }
         if(other.CompareTag("Player2")){
         Destroy(this);
         GetComponent<Renderer>().enabled = false;
         other.gameObject.GetComponent<Score2>().score++;
+                nbItem--; nb2++;
         }
+
+        
         // }
     }
 }

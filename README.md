@@ -11,6 +11,8 @@ Dans ce jeu coop, vous être amenés à nettoyer la mer des nombreux détritus q
 
 Attention ! Votre barre d'oxygène n'est pas infinie et vous devrez retrouver des sources d'air afin de survivre plus longtemps.
 
+<a href="url"><img src="https://user-images.githubusercontent.com/90316879/155219530-22efd5b2-b8a2-4708-ad2d-0d1b718ba2e7.png" align="center" height="300" width="550" ></a>
+
 Vous devez éviter les oursins disséminés tout autour du parcours afin qu'il ne percent pas vos réserves d'oxygène.
 
 

@@ -8,3 +8,10 @@ Attention ! Votre barre d'oxygène n'est pas infini et vous devrez retrouver des
 
 Vous devez évitez les oursins disséminés tout autour du parcours afin qu'il ne percent pas vos réserves d'oxygène.
 
+
+Contrôles : 
+
+J1   WASD   J2 flèches directionnelles
+
+
+Lien d'installation du fichier ZIP : https://webinfo.iutmontp.univ-montp2.fr/~dubanm/upload/JeuxCGJ/Dossier_Jeu_final_07-38/Installation_Abyss_Defender_Code_Game_Jam_2022.zip 

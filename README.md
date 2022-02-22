@@ -3,10 +3,10 @@
 Mon équipe et moi-même avons réalisé un jeu durant 36 h sur le thème suivant : Merveille des profondeurs ! 
 
 Dans ce jeu coop, vous être amenés à nettoyer la mer des nombreux détritus qui la compose en ramassant ces derniers, moins il y aura de déchets plus la mer s'éclaircira. 
-<a href="url"><img src="https://user-images.githubusercontent.com/90316879/155218963-8a72248a-255e-4b1f-8db2-6c7538a5e8a6.png" align="right" height="100" width="100" ></a>
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/90316879/155217690-7b37143b-d76a-43e1-bf7d-c7dab6820ef5.png" align="center" height="300" width="550" ></a>
+
+<a href="url"><img src="https://user-images.githubusercontent.com/90316879/155219358-2261e6ac-6917-4d87-87a7-2c8ddce3a69c.png" align="center" height="300" width="550" ></a>
 
 
 Attention ! Votre barre d'oxygène n'est pas infinie et vous devrez retrouver des sources d'air afin de survivre plus longtemps.

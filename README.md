@@ -1,8 +1,9 @@
 # Jeu C# Abyss Defender Code Game Jam 2022
 
-Mon équipe et moi-même avons réalisé un jeu durant 36 h sur le thème suivant : Merveille des profondeurs ! 
+Dans le cadre d'un évènement de programmation nommé CodeGameJam, mon équipe et moi-même avons réalisé un jeu durant 36 h sur le thème suivant : Merveilles des profondeurs ! 
 
-Dans ce jeu coopératif,vous ÊTES amenés à nettoyer la mer DE nombreux détritus, en les ramassant. Moins il y aura de déchets, plus la mer s’éclaircira
+
+Dans ce jeu coopératif,vous êtes amenés à nettoyer la mer de nombreux détritus qui la compose. En les ramassant vous nettoyer la mer petit à petit et vous permettez de nettoyer les océans ,moins il y aura de déchets, plus la mer s’éclaircira.
 
 
 

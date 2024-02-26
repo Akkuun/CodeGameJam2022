@@ -1,5 +1,8 @@
 # Jeu C# Abyss Defender Code Game Jam 2022
 
+![image](https://github.com/Akkuun/Code_Game_Jam_2024/assets/90316879/2a97fadd-601f-4967-b7dc-c499a876a61a)
+
+
 Dans le cadre d'un évènement de programmation nommé [CodeGameJam édition 2022](https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/), mon équipe et moi-même avons réalisé un jeu durant 36 h sur le thème suivant : Merveilles des profondeurs ! 
 
 

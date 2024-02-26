@@ -24,3 +24,11 @@ J1   WASD   J2 flèches directionnelles
 
 
 Lien d'installation du fichier ZIP : https://webinfo.iutmontp.univ-montp2.fr/~dubanm/upload/JeuxCGJ/Dossier_Jeu_final_07-38/Installation_Abyss_Defender_Code_Game_Jam_2022.zip 
+
+
+
+
+
+Vidéo de présentation du jeu : 
+
+https://github.com/Akkuun/CodeGameJam2022/assets/90316879/44557427-a808-448a-b9ba-85c453ae5226

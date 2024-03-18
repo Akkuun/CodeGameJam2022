@@ -2,12 +2,29 @@
 
 ![image](https://github.com/Akkuun/Code_Game_Jam_2024/assets/90316879/2a97fadd-601f-4967-b7dc-c499a876a61a)
 
+Dans le cadre de la Code Game Jam 2024 organisé par l'IUT de Montpellier [CodeGameJam édition 2022](https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/) , mon équipe et moi-même avons du créer un jeu from scratch en 36 heures sur un thème précis. Le thème de l'année était : Merveilles des profondeurs ! 
 
-Dans le cadre d'un évènement de programmation nommé [CodeGameJam édition 2022](https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/), mon équipe et moi-même avons réalisé un jeu durant 36 h sur le thème suivant : Merveilles des profondeurs ! 
+
+Dans ce contexte nous avons créer un jeu 2D avec le moteur de jeu Unity.
+
+Membres de l'équipe :
+
+SERRANO Léa : Graphic/Animation/Lighting Artist
+
+NGUYEN Thi-Christine : Music/Sound Composer/ Narrative Designer
+
+DUBAN Mathis : Project Manager/Gameplay Programmer
 
 
-Dans ce jeu coopératif,vous êtes amenés à nettoyer la mer de nombreux détritus qui la compose. En les ramassant vous nettoyer la mer petit à petit et vous permettez de nettoyer les océans ,moins il y aura de déchets, plus la mer s’éclaircira.
+Voici le pitch de notre jeu :
 
+[FR]
+
+Dans ce jeu coopératif captivant, plongez au cœur d'une mission cruciale : débarrasser les océans de l'infâme fléau des déchets marins. En unissant vos forces, vous vous lancez dans une aventure immersive où chaque déchet récupéré représente un pas de plus vers la purification des eaux. Votre engagement à nettoyer les mers se traduit par une transformation visuelle saisissante : plus vous progressez, plus les océans retrouvent leur éclat d'antan. Préparez-vous à vivre une expérience palpitante où la coopération est la clé pour restaurer la beauté naturelle de notre monde marin.
+
+[EN]
+
+In this captivating cooperative game, dive into a crucial mission: rid the oceans of the infamous scourge of marine debris. By uniting your forces, you embark on an immersive adventure where each piece of litter collected represents a step closer to purifying the waters. Your commitment to cleaning the seas translates into a striking visual transformation: the further you progress, the more the oceans regain their former brilliance. Get ready to experience an exhilarating journey where cooperation is the key to restoring the natural beauty of our marine world.
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/90316879/155219358-2261e6ac-6917-4d87-87a7-2c8ddce3a69c.png" align="center" height="300" width="550" ></a>
@@ -26,7 +43,7 @@ Contrôles :
 J1   WASD   J2 flèches directionnelles
 
 
-Lien d'installation du fichier ZIP : Disponible dans l'onglet Release ou sinon ici :  [https://webinfo.iutmontp.univ-montp2.fr/~dubanm/upload/JeuxCGJ/Dossier_Jeu_final_07-38/Installation_Abyss_Defender_Code_Game_Jam_2022.zip ](https://drive.google.com/file/d/1x8W8Y4acZVV5FG079Wtzl02Wiy1fWFXj/view)
+Lien d'installation du fichier ZIP : Disponible dans l'onglet Release ou sinon ici : https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/
 
 
 

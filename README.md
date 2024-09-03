@@ -2,10 +2,32 @@
 
 ![image](https://github.com/Akkuun/Code_Game_Jam_2024/assets/90316879/2a97fadd-601f-4967-b7dc-c499a876a61a)
 
-Dans le cadre de la Code Game Jam 2024 organisé par l'IUT de Montpellier [CodeGameJam édition 2022](https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/) , mon équipe et moi-même avons du créer un jeu from scratch en 36 heures sur un thème précis. Le thème de l'année était : Merveilles des profondeurs ! 
+[EN]
+
+As part of the Code Game Jam 2022 organized by IUT of Montpellier [CodeGameJam edition 2022](https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/), my team and I had to create a game from scratch in 36 hours on a specific theme. The theme of the year was: Wonders from the depths! 
+
+In this context, we created a 2D game with the Unity game engine.
+
+Team members:
+
+SERRANO Léa: Graphic designer/Animator/Lighting designer
+
+NGUYEN Thi-Christine: Music/sound composer/ narrative designer
+
+DUBAN Mathis: Project Manager/Gameplay Programmer
+
+Here is the pitch for our game :
 
 
-Dans ce contexte nous avons créer un jeu 2D avec le moteur de jeu Unity.
+In this captivating cooperative game, dive into a crucial mission: rid the oceans of the infamous scourge of marine debris. By uniting your forces, you embark on an immersive adventure where each piece of litter collected represents a step closer to purifying the waters. Your commitment to cleaning the seas translates into a striking visual transformation: the further you progress, the more the oceans regain their former brilliance. Get ready to experience an exhilarating journey where cooperation is the key to restoring the natural beauty of our marine world.
+
+[FR]
+
+
+Dans le cadre de la Code Game Jam 2022 organisé par l'IUT de Montpellier [CodeGameJam édition 2022](https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/) , mon équipe et moi-même avons dû créer un jeu from scratch en 36 heures sur un thème précis. Le thème de l'année était : Merveilles des profondeurs ! 
+
+
+Dans ce contexte nous avons créé un jeu 2D avec le moteur de jeu Unity.
 
 Membres de l'équipe :
 
@@ -18,13 +40,10 @@ DUBAN Mathis : Project Manager/Gameplay Programmer
 
 Voici le pitch de notre jeu :
 
-[FR]
 
 Dans ce jeu coopératif captivant, plongez au cœur d'une mission cruciale : débarrasser les océans de l'infâme fléau des déchets marins. En unissant vos forces, vous vous lancez dans une aventure immersive où chaque déchet récupéré représente un pas de plus vers la purification des eaux. Votre engagement à nettoyer les mers se traduit par une transformation visuelle saisissante : plus vous progressez, plus les océans retrouvent leur éclat d'antan. Préparez-vous à vivre une expérience palpitante où la coopération est la clé pour restaurer la beauté naturelle de notre monde marin.
 
-[EN]
 
-In this captivating cooperative game, dive into a crucial mission: rid the oceans of the infamous scourge of marine debris. By uniting your forces, you embark on an immersive adventure where each piece of litter collected represents a step closer to purifying the waters. Your commitment to cleaning the seas translates into a striking visual transformation: the further you progress, the more the oceans regain their former brilliance. Get ready to experience an exhilarating journey where cooperation is the key to restoring the natural beauty of our marine world.
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/90316879/155219358-2261e6ac-6917-4d87-87a7-2c8ddce3a69c.png" align="center" height="300" width="550" ></a>
@@ -50,3 +69,9 @@ Lien d'installation du fichier ZIP : Disponible dans l'onglet Release ou sinon i
 Vidéo de présentation du jeu : 
 
 https://github.com/Akkuun/CodeGameJam2022/assets/90316879/44557427-a808-448a-b9ba-85c453ae5226
+
+
+
+[EN]
+
+In this captivating cooperative game, dive into a crucial mission: rid the oceans of the infamous scourge of marine debris. By uniting your forces, you embark on an immersive adventure where each piece of litter collected represents a step closer to purifying the waters. Your commitment to cleaning the seas translates into a striking visual transformation: the further you progress, the more the oceans regain their former brilliance. Get ready to experience an exhilarating journey where cooperation is the key to restoring the natural beauty of our marine world.

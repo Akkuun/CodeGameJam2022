@@ -15,11 +15,11 @@ In this context, we created a 2D game with the Unity game engine.
 Team members:
 
 
-SERRANO Léa: Graphic designer/Animator/Lighting designer
+**SERRANO Léa**: Graphic designer/Animator/Lighting designer
 
-NGUYEN Thi-Christine: Music/sound composer/ narrative designer
+**NGUYEN Thi-Christine**: Music/sound composer/ narrative designer
 
-DUBAN Mathis: Project Manager/Gameplay Programmer
+**DUBAN Mathis**: Project Manager/Gameplay Programmer
 
 <br>
 
@@ -68,11 +68,11 @@ Dans ce contexte nous avons créé un jeu 2D avec le moteur de jeu Unity.
 
 Membres de l'équipe :
 
-SERRANO Léa : Graphic/Animation/Lighting Artist
+**SERRANO Léa** : Graphic/Animation/Lighting Artist
 
-NGUYEN Thi-Christine : Music/Sound Composer/ Narrative Designer
+**NGUYEN Thi-Christine** : Music/Sound Composer/ Narrative Designer
 
-DUBAN Mathis : Project Manager/Gameplay Programmer
+**DUBAN Mathis** : Project Manager/Gameplay Programmer
 
 <br>
 

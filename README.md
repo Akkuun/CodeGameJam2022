@@ -12,6 +12,10 @@ In this context, we created a 2D game with the Unity game engine.
 
 <br>
 
+**Rank obtained : 5/25<sup>th</sup>**
+
+<br>
+
 Team members:
 
 
@@ -57,6 +61,7 @@ https://github.com/Akkuun/CodeGameJam2022/assets/90316879/44557427-a808-448a-b9b
 <br>
 <br>
 
+All assets and music present in the game were made by us.
 
 [FR]
 
@@ -66,6 +71,11 @@ Dans le cadre de la Code Game Jam 2022 organisé par l'IUT de Montpellier [CodeG
 
 Dans ce contexte nous avons créé un jeu 2D avec le moteur de jeu Unity.
 
+<br>
+
+**Rang obtenu : 5/25<sup>ième</sup>**
+
+<br>
 Membres de l'équipe :
 
 **SERRANO Léa** : Graphic/Animation/Lighting Artist
@@ -104,12 +114,14 @@ J1   WASD   J2 flèches directionnelles
 
 Lien d'installation du fichier ZIP : Disponible dans l'onglet Release ou sinon ici : https://codegamejam.extragames.fr/editions-precedentes/edition-6-merveilles-des-profondeurs/projets/
 
+Tout les assets et musiques présents dans le jeu ont été réalisé par nos soins.
+
 
 
 Vidéo de présentation du jeu : 
 
 https://github.com/Akkuun/CodeGameJam2022/assets/90316879/44557427-a808-448a-b9ba-85c453ae5226
 
-
+Tous les assets et musiques présents dans le jeu ont été réalisés par nos soins.
 
 
